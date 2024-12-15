@@ -14,5 +14,8 @@ int main()
     }
     cout << endl;
 
+    cout << "Jacob" << endl
+         << "Christensen" << endl;
+
     return 0;
 }
